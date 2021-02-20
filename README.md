@@ -1,7 +1,7 @@
 # 设置NDK路径
-.local.properties
-sdk.dir=/Users/jimi/Documents/Android/sdk
-ndk.dir=/Users/jimi/Documents/Android/sdk/ndk/20.0.5594570
+<br>.local.properties
+<br>sdk.dir=/Users/jimi/Documents/Android/sdk
+<br>ndk.dir=/Users/jimi/Documents/Android/sdk/ndk/20.0.5594570
 
 # 还有其他问题，目前AndroidStudio不能运行，延期调研。
 
